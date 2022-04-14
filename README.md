@@ -8,8 +8,4 @@ A simple rate limiter for Go HTTP servers.
 go get github.com/cwinters8/rate-limiter
 ```
 
-Example server usage:
-
-```go
-// TODO: Add example
-```
+Example server usage shown with this [generic HTTP server](https://github.com/cwinters8/generic-http-server)
